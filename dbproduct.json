@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Helado sandwich de nata",
         "image": "./img/sandwich-nata.jpg",
-         "extraInfo":"Caja 6 unid. (600ml",
+        "extraInfo":"Caja 6 unid. (600ml",
          "price": 1.2
 
 
@@ -26,8 +26,7 @@
          "price": 1.57
 
 
-    }, 
-
+    },
     {
         "id": 4,
         "name": "Helado mini doble sandwich nata",
@@ -36,8 +35,7 @@
          "price": 1.99
 
 
-    }, 
-
+    },
     {
         "id": 5,
         "name": "Helado de fresa",
@@ -65,7 +63,7 @@
          "price": 2.55
 
 
-    }, 
+    },
     {
         "id": 8,
         "name": "Medio cocos helados",

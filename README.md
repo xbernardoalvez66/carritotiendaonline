@@ -7,4 +7,8 @@ Este proyecto de e-comerce en js permite al usuario<br>
 1-Agregar y eliminar producto al carrito<br>
 2-Hacer compras de varios productos y la cantidad deseada del mismo producto por el ususario con el boton "+/-"
 
+<h3 align="center">Carrito tenda online</h3>
+
+<img  src="capturadepantalla.jpg" width="600px" />
+
 

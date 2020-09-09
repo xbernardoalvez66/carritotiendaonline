@@ -13,3 +13,10 @@ Este proyecto de e-comerce en js permite al usuario<br>
 <img  src="capturadepantalla.jpg" width="500px" />
 
 
+### ✅ Status
+ ----------------------- 
+ Proyecto terminado.
+ 
+ ### 🎁 Contenido
+ ----------------------- 
+ 

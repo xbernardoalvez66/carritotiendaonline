@@ -41,6 +41,10 @@ Proyecto terminado
 <img src="https://img.shields.io/badge/license-MIT-informational"/>
 
 -----------------------
+### 📕 Autor
+---------------
+Bernardo Alvez Gil
+
 
 ### 🎁 Contenido
 ---------------
@@ -53,4 +57,5 @@ Proyecto terminado
 7. Status
 8. Licencia
 9. Contenido
+10. Autor
  

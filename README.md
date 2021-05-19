@@ -19,6 +19,7 @@ Este proyecto de e-comerce en js permite al usuario<br>
 1-Agregar y eliminar producto al carrito<br>
 2-Hacer compras de varios productos y la cantidad deseada del mismo producto por el ususario con el boton "+/-"
 
+
 ### :computer: Captura de pantalla
  ----------------------- 
 
@@ -31,6 +32,7 @@ Este proyecto de e-comerce en js permite al usuario<br>
 1. hacer download del archivo .zip
 2. instalar un servidor local como **MAMP,LAMP O XAMMP**,en caso de tener instalado colocar los archivos en la carpeta por ej: MAMP/htdocs
 3. Para ejecutar en el navegador localhost:8080/MAMP/htdocs/nombre-carpeta/index.html
+4. O git clone mas URL del repositorio
 
 ### ✔ Status
 ---------------

@@ -1,5 +1,5 @@
 # carrito-tienda-online
-carrito tienda online js
+carrito tienda online js es un proyecto que usa las tecnologias HTML5 y CSS3,Bootstrap,JS
 
 ### Sobre el proyecto
 -----------------------
